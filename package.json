@@ -1,0 +1,19 @@
+{
+	"name": "olympe",
+	"version": "0.1.0",
+	"description": "Weather application created for Android with Expo/React Native.",
+	"publishConfig": {
+		"access": "public"
+	},
+	"homepage": "https://github.com/allogaztea/olympe#readme",
+	"author": "Gaztea",
+	"license": "GPL-3.0-or-later",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/allogaztea/olympe"
+	},
+	"bugs": {
+		"url": "https://github.com/allogaztea/olympe/issues"
+	}
+}
+
